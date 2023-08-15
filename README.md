@@ -1,16 +1,12 @@
-# animated_sign_up_form
+# Animated SignUp Form
 
-A new Flutter project.
+an app that displays form in a animated manner
 
-## Getting Started
+## screenshot
+![animated_signin](https://github.com/merihcavdar/animated_sign_up_form/assets/84540989/a4c5780d-2347-4710-a517-fae07295dc38)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- Custom Widget
+- TextFormField
+- AnimatedPositioned
+- AnimatedContainer
